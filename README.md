@@ -15,4 +15,4 @@ These instructions will help you compile and run the quiz application on your lo
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone 
+   git clone https://github.com/akrititrivedi/quizapp
